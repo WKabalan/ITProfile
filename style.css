@@ -1,4 +1,23 @@
 
- h1 {
-color: blue;
+#name {
+  color:black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+
+}
+
+#backgroundColour {
+  background-color: black;
+}
+
+#link {
+  color: white;
+}
+
+.block {
+  color: #FAEBD7;
+  font-family: Verdana, sans-serif;
+
+  padding-left: 25%;
+  padding-right: 25%;
 }
